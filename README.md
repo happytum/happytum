@@ -2,4 +2,4 @@
 <br>
 ![happytum's github stats](https://github-readme-stats.vercel.app/api?username=happytum&show_icons=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=happytum)](https://solved.ac/happytum)
-- 🌱 python(MLDL, web ...)
+- 🌱 python, C
