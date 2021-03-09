@@ -4,4 +4,4 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=happytum)](https://solved.ac/happytum)
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/C-3FFD700?style=flat-square&logo=C&logoColor=black"/></a>
